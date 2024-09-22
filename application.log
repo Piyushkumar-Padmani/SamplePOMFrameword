@@ -1,0 +1,12 @@
+2024-08-19 23:16:27,710  INFO [main] HomePageTest:23 - 
+***** test execution started *****
+2024-08-19 23:16:42,133  INFO [main] HomePageTest:56 - 
+***** checking searchList *****
+2024-08-19 23:16:48,069  INFO [main] HomePageTest:34 - 
+***** test execution ended *****
+2024-08-19 23:16:48,081  INFO [main] HomePageTest:23 - 
+***** test execution started *****
+2024-08-19 23:17:00,130  INFO [main] HomePageTest:64 - 
+***** checking changeCategory *****
+2024-08-19 23:17:06,786  INFO [main] HomePageTest:34 - 
+***** test execution ended *****
